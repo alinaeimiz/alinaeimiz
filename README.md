@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning django 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me alinaeimi2001@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: good things take times!
 
 <!---
