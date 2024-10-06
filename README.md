@@ -16,7 +16,7 @@ Always striving to grow and learn something new with every project!
 
 Feel free to connect with me:
 
-	•	LinkedIn: [Your LinkedIn Profile Link]
+	•	LinkedIn: https://www.linkedin.com/in/ali-naeimi-51249423a
 	•	Email: alinaeimi2001@gmail.com
 
 This format is clean and direct, making it easy for anyone visiting your GitHub to get a sense of who you are and what you’re working on!
