@@ -11,11 +11,12 @@ Some things about me:
 	•	📚 When I’m not working with data, you’ll probably find me reading a book or learning something new.
 	•	☕ Coffee fuels my learning sessions and late-night coding sprints.
 
-Here on GitHub, I share projects and code related to data analysis, visualization, and my journey into data science. Always striving to grow and learn something new with every project!
+Here on GitHub, I share projects and code related to data science and AI.
+Always striving to grow and learn something new with every project!
 
 Feel free to connect with me:
 
 	•	LinkedIn: [Your LinkedIn Profile Link]
-	•	Email: [Your Email Address]
+	•	Email: alinaeimi2001@gmail.com
 
 This format is clean and direct, making it easy for anyone visiting your GitHub to get a sense of who you are and what you’re working on!
