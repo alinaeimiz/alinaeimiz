@@ -16,7 +16,7 @@ Always striving to grow and learn something new with every project!
 
 Feel free to connect with me:
 
-	•	LinkedIn: https://www.linkedin.com/in/ali-naeimi-51249423a
+	•	LinkedIn: https://www.linkedin.com/in/ali-naeimi
 	•	Email: alinaeimi2001@gmail.com
 
 
