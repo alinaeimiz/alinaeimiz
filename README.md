@@ -2,7 +2,7 @@ Here’s a GitHub profile README based on your info:
 
 Hi there, I’m Ali! 👋
 
-I’m a data analyst with a growing passion for data science. I’m always on the lookout for opportunities to expand my skills and dive deeper into the world of data. Whether it’s through learning new tools, reading up on the latest techniques, or tackling challenging projects, I’m constantly working to improve my craft.
+I’m a data engineer with a growing passion for data science. I’m always on the lookout for opportunities to expand my skills and dive deeper into the world of data. Whether it’s through learning new tools, reading up on the latest techniques, or tackling challenging projects, I’m constantly working to improve my craft.
 
 Some things about me:
 
