@@ -133,17 +133,6 @@ A computer vision project exploring image classification with Fashion-MNIST.
 
 A deep learning project focused on predicting housing values from structured data.
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alinaeimiz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinaeimiz&layout=compact&theme=tokyonight&hide_border=true" alt="Top programming languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alinaeimiz&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
 ## 🎓 Education & Learning
 
 **B.Sc. in Urban Engineering**  
