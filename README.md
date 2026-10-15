@@ -79,34 +79,6 @@ My experience spans distributed data processing, analytical database optimizatio
   <img src="https://img.shields.io/badge/MCP-334155?style=for-the-badge" alt="Model Context Protocol" />
 </p>
 
-## 💼 Professional Experience
-
-**Data Engineer — Okala**  
-`March 2025 – Present`
-
-- Optimize ClickHouse analytical workloads across billion-record-scale customer behavior datasets.
-- Improve schema design, sharding, replication, query performance, and storage efficiency.
-- Lead the migration from Apache Airflow 2 to Airflow 3.
-- Deploy Kubernetes workloads with Helm and automate delivery using GitLab CI/CD.
-- Implement monitoring, alerting, MLflow, and OpenMetadata.
-- Build ETA prediction pipelines with real-time inference through FastAPI.
-- Develop an MCP server for an SSAS semantic layer and AI agents for business question answering.
-
-**Data Engineer — Cyberno**  
-`March 2025 – November 2025`
-
-- Build data collection microservices for malware intelligence.
-- Develop Airflow ETL pipelines and automated security testing frameworks.
-- Implement high-performance Go services for real-time processing and enrichment.
-- Maintain CI/CD workflows and build agentic AI tools for natural-language threat analysis.
-
-**Research Assistant — Urban Data & Geospatial Analytics**  
-`June 2024 – February 2025`
-
-- Analyze OpenStreetMap and geospatial data using PostgreSQL and PostGIS.
-- Engineer spatial features and train DNN, XGBoost, and LightGBM models.
-- Develop visualizations to communicate traffic prediction findings.
-
 ## 🚀 Selected Projects
 
 ### 🧭 [A* Pathfinding Visualizer](https://github.com/alinaeimiz/Astar_maze_pygame)
