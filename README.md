@@ -1,4 +1,4 @@
-# Ali Naeimi | Data Engineer
+# Ali Naeimi | Data Engineer | MLOPS
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Data+Engineer+%7C+Data+Platform+Engineering;Building+Scalable+Data+Pipelines;MLOps+%7C+LLMs+%7C+Agentic+AI;From+Raw+Data+to+Production+Systems" alt="Animated introduction" />
